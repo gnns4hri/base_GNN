@@ -1,0 +1,9 @@
+*.pyc
+.idea
+*.prms
+*.tch
+CMakeCache.txt
+CMakeFiles
+Makefile
+cmake_install.cmake
+
